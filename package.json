@@ -1,0 +1,19 @@
+{
+  "name": "@allinchow/acl",
+  "version": "1.0.0",
+  "description": "authorization, registration, recovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allinchow/acl.git"
+  },
+  "author": "allinchow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allinchow/acl/issues"
+  },
+  "homepage": "https://github.com/allinchow/acl#readme"
+}
